@@ -1,0 +1,51 @@
+{
+  "units": [
+    {
+      "id": "diabetes",
+      "title": "糖尿病",
+      "en": "Diabetes mellitus",
+      "emoji": "🍡",
+      "tagline": "新學習單元",
+      "accent": "mint",
+      "intro": "三行摘要",
+      "refs": [
+        {
+          "label": "正式指引",
+          "url": "https://example.org"
+        }
+      ],
+      "sections": [
+        {
+          "title": "診斷 Diagnosis",
+          "key": "診斷",
+          "lines": [
+            "內容重點 1",
+            "內容重點 2"
+          ]
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "dm-001",
+      "unitId": "diabetes",
+      "topic": "診斷",
+      "stem": "一名患者……下列何者最適當？",
+      "options": [
+        "選項一",
+        "選項二",
+        "選項三",
+        "選項四"
+      ],
+      "answer": 0,
+      "why": [
+        "選項一說明",
+        "選項二說明",
+        "選項三說明",
+        "選項四說明"
+      ],
+      "source": "https://example.org"
+    }
+  ]
+}
