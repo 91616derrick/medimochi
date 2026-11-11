@@ -1,0 +1,6 @@
+# Never commit private progress exports or credentials
+my_progress_private.json
+*private*.json
+*.secret
+.env
+.env.*
